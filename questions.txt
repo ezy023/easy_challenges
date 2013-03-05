@@ -1,0 +1,6 @@
+1 * 1?,1
+2 * 2?,4
+12 * 12?,144
+20 + 10?,30
+Left or Right?,Left
+Up or Down?,Down

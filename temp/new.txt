@@ -1,0 +1,6 @@
+Here is a new file
+i think it is better than the old one
+but i could be wrong
+also i'm typing this in the command line use 'cat'
+and then it will write all this to the file
+See you in Sublime!
